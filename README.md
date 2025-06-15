@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vrjordant
-- 👀 I’m interested in video games, Destiny, anime, TV, movies, board games, table tennis, badminton, volleyball, chess, and science!
-- 🌱 I’m currently learning React?
-- 💞️ I’m looking to collaborate on game dev projects, and more!
-- 📫 How to reach me ... in the shadows
+- 👀 I’m interested in video games, Destiny, anime, TV, movies, board games, table tennis, badminton, volleyball, and science!
+- 🌱 I’m currently learning React and backend technologies
+- 💞️ I’m looking to collaborate on front-end and/or game dev projects
+- 📫 How to reach me: https://www.linkedin.com/in/jordan-tantuico/
 
 <!---
 vrjordant/vrjordant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
